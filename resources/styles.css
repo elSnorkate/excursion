@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first_tittle{
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+.first_link{
+    font-size: 16px;
+    text-align: center;
+    color: aquamarine;
+}
