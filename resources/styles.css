@@ -14,3 +14,14 @@
     text-align: center;
     color: aquamarine;
 }
+#second_tittle{
+    font-size: 42px;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+.normal_text{
+    font-size: 21px;
+    color: gray;
+    
+}
